@@ -8,7 +8,7 @@
 
 body {
   height: 100vh;
-  background: linear-gradient(to right, #9f2626, #dbe9f4);
+  background: linear-gradient(to right, #26879f, #dbe9f4);
   color: black;
   display: flex;
   flex-direction: column;
@@ -78,9 +78,10 @@ p {
 }
 
 @keyframes bounce {
-  from { top: 0; }
-  to   { top: 350px; background-color: #e53935; }
+  from { top: 0%; }
+  to   { top: 87.5%; background-color: #e53935; }
 }
+
 
 @keyframes move {
   0%   { left: 5px; }
