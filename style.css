@@ -8,7 +8,7 @@
 
 body {
   height: 100vh;
-  background: linear-gradient(to right, #26579f, #dbe9f4);
+  background: linear-gradient(to right, #9f2626, #dbe9f4);
   color: black;
   display: flex;
   flex-direction: column;
